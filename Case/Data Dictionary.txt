@@ -1,0 +1,14 @@
+AgeGroup: Age group for customer	
+Category_ID: Category ID for food	
+Category_Name: Category name for food	
+Customer_ID: Unique identifier for customer	
+new_date: Order date	
+Gender: Gender for customer	
+ModeofOrder: Mode of food order	
+NetSales: Net sales value	
+Product_ID: Product ID for products ordered	
+Quantity: Quantity for products ordered 	
+Size: Size for products ordered	
+SubCategory_Name: Sub-category for product	
+Trans_ID: Transaction ID	
+Zipcode: Zipcode
